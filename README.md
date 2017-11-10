@@ -1,8 +1,6 @@
 # Operating System 2 
-Homework 2
 
-## Create a Load-Balanced Cluster With Auto Scaling using Terraform
-
+Create a Load-Balanced Cluster With Auto Scaling using Terraform
 ```
 terraform.tf 
 ```
@@ -10,5 +8,5 @@ terraform.tf
 ### DEMO Video
 
 ```
-video link
+https://youtu.be/dB0HEIfllBY
 ```
