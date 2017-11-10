@@ -12,8 +12,6 @@ and then
 ```
 terraform apply
 ```
-### DEMO Video
 
-```
-[Demo Video](https://youtu.be/dB0HEIfllBY)
-```
+[Demo Video](https://youtu.be/dB0HEIfllBY/)
+
